@@ -1,2 +1,11 @@
-# Hole-in-the-Ground
-a fun 3D physics video game inspired by the delightfully clever 2018 game Donut County. In this game, the player controls a hole in the ground that increases in size each time an object falls inside it, eventually becoming large enough to swallow entire buildings.
+Name: 
+  - Yicheng Zhai
+
+Third Party Assets: 
+  - Billiard Ball Texture from ShareCG.com
+
+Wizard Functionality:
+  - A Billiard Bame implemented for Stage 2 (You need to shoot every ball into the hole and finally the white one.)
+  - AngryBee Control implemented (Arrow keys and WASD no longer works)
+  - Billiard Ball Texture added
+  - Ball rotation animation added (It looks weird, maybe I will fix it later)
