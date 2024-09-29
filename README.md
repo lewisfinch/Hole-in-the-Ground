@@ -1,6 +1,3 @@
-Name: 
-  - Yicheng Zhai
-
 Third Party Assets: 
   - Billiard Ball Texture from ShareCG.com
 
